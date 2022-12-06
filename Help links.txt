@@ -1,0 +1,6 @@
+# Taking input funtionality :-
+
+https://stackoverflow.com/questions/11556958/sending-data-from-html-form-to-a-python-script-in-flask
+
+# s
+
